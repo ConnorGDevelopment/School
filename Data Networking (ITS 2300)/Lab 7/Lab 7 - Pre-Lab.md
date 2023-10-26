@@ -15,15 +15,15 @@ RandoNet Generated Network: 172.33.0.0/16
 | (WAN Gateway)         | br192-PublicNet | 132.235.205.126/25    |
 |                       |                 |                       |
 | **LAN1 Network**      |                 | 172.33.**255**.0/24   |
-| DHCP Pool Start       |                 | 172.33.**255**.50/24  |
-| DHCP Pool Stop        |                 | 172.33.**255**.200/24 |
+| DHCP Pool Start       |                 | 172.33.**255**.101/24  |
+| DHCP Pool Stop        |                 | 172.33.**255**.251/24 |
 | VyOS-1 (LAN1 Gateway) | eth6            | 172.33.**255**.254/24 |
 | PC1 (VPCS)            | e0              |                       |
 |                       |                 |                       |
-| **LAN2 Network**      |                 | 172.33.**252**.0/23   |
-| DHCP Pool Start       |                 | 172.33.**252**.55/23  |
-| DHCP Pool Stop        |                 | 172.33.**253**.100/23 |
-| VyOS-2 (LAN2 Gateway) | eth7            | 172.33.**253**.254/23 |
+| **LAN2 Network**      |                 | 172.33.**252**.0/22   |
+| DHCP Pool Start       |                 | 172.33.**252**.251/22 |
+| DHCP Pool Stop        |                 | 172.33.**254**.40/22 |
+| VyOS-2 (LAN2 Gateway) | eth7            | 172.33.**255**.254/22 |
 | PC2 (VPCS)            | e0              |                       |
 
 ## Network Diagram
