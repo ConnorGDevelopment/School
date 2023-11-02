@@ -19,10 +19,6 @@
 > set system name-server 132.235.9.75
 > set system name-server 132.235.200.41
 >
-> set nat source rule 100 outbound-interface eth0
-> set nat source rule 100 source address ==LAN_GATEWAY_ADDR==
-> set nat source rule 100 translation address masquerade
->
 > set interfaces ethernet ==PORT== address ==LAN_GATEWAY_ADDR==
 
 ### Configure DHCP
@@ -33,3 +29,9 @@
 > set service dhcp-server shared-network-name ==POOL_NAME== subnet ==NETWORK_NUMBER/MASK== lease 120
 > set service dhcp-server shared-network-name ==POOL_NAME== subnet ==NETWORK_NUMBER/MASK== name-server 132.235.9.75
 > set service dhcp-server shared-network-name ==POOL_NAME== subnet ==NETWORK_NUMBER/MASK== name-server 132.235.200.41
+
+### Configure NAT
+
+> set nat source rule 100 outbound-interface eth0
+> set nat source rule 100 source address ==LAN_NETWORK_NUMBER/MASK==
+> set nat source rule 100 translation address masquerade
