@@ -19,7 +19,7 @@
 > set system name-server 132.235.9.75
 > set system name-server 132.235.200.41
 >
-> set interfaces ethernet ==PORT== address ==LAN_GATEWAY_ADDR==
+> set interfaces ethernet ==PORT== address ==LAN_GATEWAY_ADDR/MASK==
 
 ### Configure DHCP
 
