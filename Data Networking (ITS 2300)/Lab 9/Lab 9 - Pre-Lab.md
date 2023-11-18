@@ -29,6 +29,7 @@ Random Network Generate = 192.168.0.0/22
 | (Static Host Start)   |                 | 192.168.0.1        |
 | (Static Host Stop)    |                 | 192.168.0.94       |
 | DHCP Pool Start       |                 | 192.168.0.95       |
+| VPCS1                 |                 | 192.168.0.95/25    |
 | DHCP Pool Stop        |                 | 192.168.0.125      |
 | VyOS-1 (LAN1 Gateway) | eth6            | 192.168.0.126      |
 |                       |                 |                    |
@@ -44,6 +45,7 @@ Random Network Generate = 192.168.0.0/22
 | (Static Host Start)   |                 | 192.168.2.1        |
 | (Static Host Stop)    |                 | 192.168.2.165      |
 | DHCP Pool Start       |                 | 192.168.2.166      |
+| Ubuntu-GUI-1          |                 | 192.168.2.166/24   |
 | DHCP Pool Stop        |                 | 192.168.2.253      |
 | VyOS-2 (LAN3 Gateway) | eth7            | 192.168.2.254      |
 |                       |                 |                    |
@@ -146,7 +148,7 @@ commit
 
 config
 
-set protocols static route 0.0.0.0/0 next-hop 132.235.205.126
+set protocols static route 0.0.0.0/0 next-hop 191.168.1.62
 
 commit
 
