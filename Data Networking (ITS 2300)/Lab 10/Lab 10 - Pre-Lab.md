@@ -29,6 +29,7 @@ Random Network Generated = 192.168.104.0/23
 | (Static Host Start)   |           | 192.168.105.1      |
 | (Static Host Stop)    |           | 192.168.105.65     |
 | DHCP Pool Start       |           | 192.168.105.66     |
+| Ubuntu-CLI-1          | ens3      | 192.168.105.66     |
 | DHCP Pool Stop        |           | 192.168.105.82     |
 | VyOS-1 (LAN1 Gateway) | eth6      | 192.168.105.126    |
 |                       |           |                    |
@@ -42,6 +43,7 @@ Random Network Generated = 192.168.104.0/23
 | (Static Host Start)   |           | 192.168.104.1      |
 | (Static Host Stop)    |           | 192.168.104.200    |
 | DHCP Pool Start       |           | 192.168.104.201    |
+| Ubuntu-GUI-1          | ens4      | 192.168.104.202    |
 | DHCP Pool Stop        |           | 192.168.104.220    |
 | VyOS-2 (LAN3 Gateway) | eth7      | 192.168.104.254    |
 |                       |           |                    |
@@ -49,6 +51,7 @@ Random Network Generated = 192.168.104.0/23
 | (Static Host Start)   |           | 192.168.105.129    |
 | (Static Host Stop)    |           | 192.168.105.154    |
 | DHCP Pool Start       |           | 192.168.105.155    |
+| Ubuntu-GUI-2          | ens4      | 192.168.105.156    |
 | DHCP Pool Stop        |           | 192.168.105.157    |
 | VyOS-2 (LAN4 Gateway) | eth6      | 192.168.105.158    |
 
@@ -187,3 +190,23 @@ set service dhcp-server shared-network-name LAN4 subnet 192.168.105.128/27 lease
 set service dhcp-server shared-network-name LAN4 subnet 192.168.105.128/27 name-server 132.235.9.75
 
 set service dhcp-server shared-network-name LAN4 subnet 192.168.105.128/27 name-server 132.235.200.41
+
+### VyOS-2 Firewall ETH7_IN
+
+set firewall name ETH7_IN default-action accept
+set firewall name ETH7_IN rule 10 action drop
+set firewall name ETH7_IN rule 10 description 'Block incoming SSH on eth7'
+set firewall name ETH7_IN rule 10 destination port 22
+set firewall name ETH7_IN rule 10 protocol tcp
+set firewall name ETH7_IN rule 10 state new enable
+set interface ethernet eth7 firewall in name ETH7_IN
+
+### VyOS-2 Firewall ETH7_WWW
+
+set firewall name ETH7_WWW default-action accept
+set firewall name ETH7_WWW rule 20 action drop
+set firewall name ETH7_WWW rule 20 description 'Block WWW Traffic'
+set firewall name ETH7_WWW rule 20 destination port 80
+set firewall name ETH7_WWW rule 20 protocol tcp
+set firewall name ETH7_WWW rule 20 state new enable
+set interface ethernet eth7 firewall in name ETH7_WWW
