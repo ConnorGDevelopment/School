@@ -154,7 +154,7 @@ Ways to make 360 Video more interactive --> Branching choices / environment reac
   - Do we have a reason to explore or view more of the environment --> Don't make novelty where the value is ooh-ahh you can spin your head and see nothing
 
 Real-World Content
-"Content does not necessarily need t obe created by artists. One way of creating VR environments is not to build content but to reuse what the real world already provides." - Jerald, p.246
+"Content does not necessarily need to be created by artists. One way of creating VR environments is not to build content but to reuse what the real world already provides." - Jerald, p.246
 
 ### More Q's
 
@@ -174,3 +174,17 @@ Standard film, television, and video limits viewers to a roughly rectangular fra
 Frames come from legacy of fine art (framed paintings + theater).
 
 A framed image demans a rather limited spectatorial position and usually provides only a small viewing angle.
+
+## 2/22/24
+
+*[Sound-Image Analysis Paper](Sound-Image%20Analysis%20Paper.md) was assigned on Monday, due March 5th*
+
+New AI - Sora, was impressive but also seemed like it was ripping Kangaroo Jack, puppy stock footage, and those old ships I had when I was kid.
+
+Playtime - Jacques Tati
+Artsy film guy with low to no dialogue movies feat bumbling old man
+
+North by Northwest - Alfred Hitchcock
+Score by Bernard Hermann, the 'godfather of music in film', he pioneered a lot of how sound is used in movies
+
+Diagetic Sound - Sound that the characters can hear
