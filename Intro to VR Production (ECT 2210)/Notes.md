@@ -188,3 +188,30 @@ North by Northwest - Alfred Hitchcock
 Score by Bernard Hermann, the 'godfather of music in film', he pioneered a lot of how sound is used in movies
 
 Diagetic Sound - Sound that the characters can hear
+
+## 2/28/24
+
+### Q&A: Ambisonics vs Atmos, Stereo vs Binaural, Waves NX in Fairlight 
+
+Link: <https://www.youtube.com/watch?v=R2QON1y5BCo>
+
+### 3 Diff Perspectives for Sound
+
+1. Sounds is a pressure distribution that is only related to your position on the 'sweet spot'.
+2. Sound from an emitter (speaker)
+3. Sound as it enters your ears
+
+1st Perspective -> Ambisonic, wave function on a sphere
+
+2nd Perspective -> Traditional speaker/stereo setup
+
+3rd Perspective -> Audio that is rendered exactly the way that a human would hear it (Binaural)
+
+Monitoring and understanding is important because renders of sound in Ambisonics vs Binaural are so different
+
+Waves NX is software that is good for modeling sound to head
+
+### Ambisonics in Reaper
+
+Link: <https://www.youtube.com/watch?v=fc5IXiR4KiQ>
+
