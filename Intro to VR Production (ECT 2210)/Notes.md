@@ -215,3 +215,36 @@ Waves NX is software that is good for modeling sound to head
 
 Link: <https://www.youtube.com/watch?v=fc5IXiR4KiQ>
 
+## 3/7/24
+
+**Remember to send docs to Chip after classes**
+
+Unity Version: 2022.3.15f1
+
+### Head-Related Transfer Function (HRTF)
+
+The anatomy of an individual (height, ears, skull shape, etc.) changes how audio is perceived.
+
+Sound changes as it passes through a medium before it is transduced.
+
+In HRTF, some frequencies are amplified, while others are attenuated.
+
+Affected by size, position, and shape of human ears and body.
+
+In HRTF, sounds are filtered in various ways according to the surrounding space and properties of the body and pinna (outer ear).
+
+"If you're used to hearing the world through your own body, we can make headphones and audio that shape that."
+
+Examples of HRTF: PS5 Spatial Audio functions, uses generalized not specific HRTF.
+
+Two HRTFs allow for the simulation of binaural hearing in headphones.
+
+Each person's HRTF is unique.
+
+Endophony
+: A sound you hear inside (your head) but not outside.
+
+Intra-aural Time Difference (ITD)
+: Delay between the perception of sound in oner ear versus the other.
+: Perfectly centered sounds reach both ears simultaneously.
+: ITD plays an important role in locating the sources of sounds in space.
