@@ -248,3 +248,109 @@ Intra-aural Time Difference (ITD)
 : Delay between the perception of sound in oner ear versus the other.
 : Perfectly centered sounds reach both ears simultaneously.
 : ITD plays an important role in locating the sources of sounds in space.
+
+## 3/19/24
+
+### Helpful Links on Unity RPG Stuff
+
+[Unity RPG Structure](https://forum.unity.com/threads/rpg-class-job-structure-c.396721/)
+
+[Unity RPG Creator Kit](https://learn.unity.com/project/creator-kit-rpg)
+
+### PORTS
+
+Digital Twin / 3D Model of Decommissioned Nuclear Plants
+
+### McClure School Day
+
+**March 21 (Next Thursday), Event last all day**
+**Class in Baker Center 240/242**
+
+Michael Stevens Presentation
+: Former Game Dev Teacher at OU
+: Senior Gameplay Engineer
+: Worked for Super7 Games
+: Current Company just ran out of funding, presentation about jobs in the industry
+
+## Unity
+
+Marvel Snap is made with Unity
+
+Unity 3D has more features for VR, Unreal is also good but just not oriented or expanded as much
+
+Game Engine
+: Real-time development platform used to create games, simulations, etc.
+
+Real-time
+: You can see changes as they're made, not after rendering or processing
+
+Cross-platform
+: Works for multiple OS's and devices (Windows, Mac OS, Playstation, Xbox, web, mobile, etc.)
+
+Originally released in June 2005
+
+2D & 3D Graphics Capabilities
+VR, MR, and AR Capabilities
+Massive Asset Store, many are free
+
+Generally free to use until you start making big money
+
+Uses C# Scripting, Unreal uses C++
+
+Circa 2016, 90% of VR Games for Rift were Unity
+
+As of 2021, Unity supports Visual Scripting
+
+### Why is Unity good for XR development?
+
+Great Cross-Platform Support
+: Cross-platform support is very important because of how often new devices are released
+
+Great Visual Workflow
+: Important for rapid development, prototyping, and iteration
+: Provides tools for physics simulation, SSAO (screen space ambient occlusion), dynamic shadows, visual effects and etc.
+: Allows for scene layout and the integration of assets and code into interactive objects
+: Everything created for Unity goes through the visual editor, but still allows for advanced custom code as well
+: Intuitive Visual Interface
+: Unreal probably has better graphics and lighting but is more difficult to learn
+
+### Unity Downsides
+
+Graphics -> Unreal wins
+AAA Companies prefer Unreal
+Potentially too many options in Unity
+Not fully open-source
+"Evolutionary messiness" (J. Hocking) -> Similar to Adobe, updates break stuff
+
+### Using the Unity Interface
+
+6 Parts: Project Window, Scene View, Game View, Hierarchy Window, Inspector Window, Toolbar
+
+Scene View + Game View are within the Project Window, Scene is setup, Game is playing it
+
+Project Window
+: Access and utilize the assets for your project
+
+Assets
+: Anything you're using inside your project -> scripts, colors, images, etc.
+
+Scene View
+: Interactive window into world, position scenery, characters, cmaeras, lights, and any other types of **Game Objects**
+
+Game View
+: Rendered view from the **Cameras** in your game, represents final and playable version of the game.
+: Multiple **Cameras** will be used to make different views for the player
+
+Hierarchy Window
+: Contains a list of every **Game Object** in the current **Scene**
+: May include direct instances of Asset files, Prefabs
+
+Parenting
+: By default, objects are listed in the Hierarchy window in the order they are made.
+: You can re-order the objects by dragging them up or down, making them child or parent objects
+: Children inherit the behavior of their Parents
+: Child objects inherit the movement and roation of the parent object
+
+The Inspector
+: When selecting a **GameObject**, displays all of the **Components** attached to that **GameObject**
+: **GameObjects** have **Components** like scripts, sounds, meshes, and other graphical elements such as lights.
