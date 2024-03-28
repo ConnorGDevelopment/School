@@ -354,3 +354,56 @@ Parenting
 The Inspector
 : When selecting a **GameObject**, displays all of the **Components** attached to that **GameObject**
 : **GameObjects** have **Components** like scripts, sounds, meshes, and other graphical elements such as lights.
+
+## 3-28-24
+
+### Jorge Castillo-Castro Presentation: Digital Twins
+
+Digital Twins
+: Digital reconstruction of a thing, doesn't have to be a space.
+: Digital representation of something that already exists.
+
+Nvidia -> Working on digital twin of Earth for weather system study
+
+How do you get the assets?
+Old way was using CAD files, but it was time intensive
+New way is using VR --> More Specific, using photogrammetry
+
+*Q: Can you import CAD files into Unity / Is there a non-Blender way to make models?*
+
+*Jorge is teaching a whole class in the Fall on Digital Twins*
+
+*Q: What software for this ^ class?*
+
+Photogrammetry
+: Science of obtaining information about physical objects and the environment the process of recording, measuring, and interpreting photographic images.
+
+There are different uses for photogrammetry and the workflow cna vary depending on the content.
+
+### Workflow for Photogrammetry
+
+Image Acquistion -> Processing -> Reconstruction -> Polishing Mesh -> Texturing
+
+- Image Acquistion
+  - This is where hardware is a big deal, having better cameras not only improves model quality but also makes process easier.
+  - You take many, many, many photos simultaneously at multiple angles.
+  - It is very important for the object to be evenly lit because shadows are applied in post.
+  - Take images in the raw, colors are corrected in post.
+- Processing
+  - Adobe Lightroom
+  - Color adjustments on the images so they all match
+  - Masking (Silhouette) blocks all the information we don't want to use in programs further down the pipeline
+- Reconstruction
+  - Software
+    - Agisoft Metashape -> Paid (Inventor $$$)
+      - Engineering, Construction Uses
+    - Meshroom -> Free
+    - RealityCapture -> Pay per Model
+    - PolyCamp -> Mobile
+    - Luma AI -> Mobile, uses Gaussian Splats, kind of quirky
+  - Mobile apps are kind of nice because they cloud process
+- Polishing Mesh
+  - Doing tweaks and then getting poly count down to be usable
+- Texturing
+  - UV Mapping: Making a map for how light is absorbed on the model
+  - Textures are applied to maintain the depth/surface of object without using polygons
