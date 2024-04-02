@@ -408,3 +408,38 @@ Image Acquistion -> Processing -> Reconstruction -> Polishing Mesh -> Texturing
   - UV Mapping: Making a map for how light is absorbed on the model
   - Textures are applied to maintain the depth/surface of object without using polygons
 
+## 4-2-24
+
+Blossom Hack
+: 24 Hour Hackathon
+: April 6-7
+: Checkin @ 10 AM
+: Irvine 194
+: No Experience Required
+
+### Special Classes that will only be offered once-ish!
+
+ECT 2411 - World Creation - Alex Rossin - Fall
+ECT 4900 - Photogrammetry - Jorge - Fall
+ECT 4900 - Advanced CG Pipeline - Darko - Fall
+: Media Design / Game Dev co-op, teaches going from art to game
+
+### Coding in Unity
+
+Good Structure for C#
+Variables / Properties -> Funcs -> Unity Funcs
+
+Vector3
+: Set of 3 floats
+
+Rest of presentation of Blackboard
+
+### Half-Life: Alyx
+
+Arguable best VR Games
+Valve focus on player control -> Loss of freedom breaks presence
+Freedom to Look -> Caused issues in games before, even more in VR -> Known as attention problem
+Valve solves this by using audio/visual ques to direct players attention
+VR exponentially compounds the attention problem
+: VR lets users have full control of their perspective
+: VR is also designed in a way where there has to be more to look at (good VR doesn't have blank spots behind you)
