@@ -407,3 +407,4 @@ Image Acquistion -> Processing -> Reconstruction -> Polishing Mesh -> Texturing
 - Texturing
   - UV Mapping: Making a map for how light is absorbed on the model
   - Textures are applied to maintain the depth/surface of object without using polygons
+
