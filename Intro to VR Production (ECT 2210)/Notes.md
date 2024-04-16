@@ -443,3 +443,56 @@ Valve solves this by using audio/visual ques to direct players attention
 VR exponentially compounds the attention problem
 : VR lets users have full control of their perspective
 : VR is also designed in a way where there has to be more to look at (good VR doesn't have blank spots behind you)
+
+## 4-16-24
+
+New Assign: AR Production Project
+Due In-Class next Thurs
+
+### Types of AR Interaction
+
+- Location-based
+  - AR elements are tied to geographic coordinates, like Pokemon Go
+- Object-based
+  - AR elements are tied to a physical object, like Museum stuff
+- Proximity-based
+  - AR elements perform some action based on their adjacency to another thing (including the user)
+
+### Fungisaurs
+
+Dinosaur + Fungus toys
+Uses AR but instead of RF ID chips in the toy, the shape and color of the toy functions kind of like a QR code
+
+### State of AR
+
+VR it is okay to have a headset
+AR to really take off requires a non-headset and non-tablet option, re: Google Glass and similar
+
+### Human-Computer Interaction (HCI)
+
+Three Main Types:
+
+- Visual
+  - Graphics
+  - Text
+  - UI
+  - Screens
+  - Animations
+  - 2D/3D Objects
+  - Eye Tracking
+  - Poses
+- Auditory
+  - Voice
+  - Sound Effects
+  - Music
+  - Ambience + Environmental Sounds
+  - Tones
+- Physical
+  - Hardware
+  - Game Peripherals
+  - Haptics
+  - External Physical Objects
+
+HCI has existed since we've touched a computer
+As tech advances, computers get smaller and closer to us
+Ivan Sutherland made the GUI
