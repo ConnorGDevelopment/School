@@ -451,17 +451,16 @@ Due In-Class next Thurs
 
 ### Types of AR Interaction
 
-- Location-based
-  - AR elements are tied to geographic coordinates, like Pokemon Go
-- Object-based
-  - AR elements are tied to a physical object, like Museum stuff
-- Proximity-based
-  - AR elements perform some action based on their adjacency to another thing (including the user)
+Location-based
+: AR elements are tied to geographic coordinates, like Pokemon Go
+Object-based
+: AR elements are tied to a physical object, like Museum stuff
+Proximity-based
+: AR elements perform some action based on their adjacency to another thing (including the user)
 
-### Fungisaurs
-
-Dinosaur + Fungus toys
-Uses AR but instead of RF ID chips in the toy, the shape and color of the toy functions kind of like a QR code
+Fungisaurs
+: Dinosaur + Fungus toys
+: Uses AR but instead of RF ID chips in the toy, the shape and color of the toy functions kind of like a QR code
 
 ### State of AR
 
@@ -496,3 +495,44 @@ Three Main Types:
 HCI has existed since we've touched a computer
 As tech advances, computers get smaller and closer to us
 Ivan Sutherland made the GUI
+
+## 4-18-24
+
+### Novel HCI
+
+- Location + Position Tracking
+  : Headset tracks where you are with gyros and stuff, tracks where env is with cameras + lasers
+- Inside-Out Tracking
+  : Headset tracks you and environment and reports to program
+- Outside-In Tracking
+  : Environment + Program tracks where you + headset are reports to headset
+- Biometrics
+  : Breathe rate, pulse, and etc now being incorporated into XR
+- Eye Movement and Tracking
+  : Very current, uses camera + tech to track where attention is
+- Intention/Nerve Impulses
+  : Devices that track electrical signals in brain or limb and report to program
+- BCI
+  : Brain Computer Interfaces, the 'end goal'
+  : Uses EEG devices to track inputs
+
+Q: Does homuncular flexibility apply to interfaces? Does it have to be a 'limb'?
+
+Lab has non-invasive BCI -> Could work with
+
+Neurable & DeepMind - Headphones that can help track when you are being productive and promote being more productive
+
+### Spatial Computing
+
+As tech advances, more and more of our environment is made of digital objects (computers, monitors, phones, etc.)
+
+A question for humanity is 'how do we design for a digital world?' -> Kind of like 'how do we design for an automotive world'
+
+XR represents a 'race for the new screen' according to Skip Rizzo
+
+### Novel Uses of AR
+
+- AR Contact Lenses
+  : Display information on eyes and provide additional functionality like zoom
+
+Q: If you had a BCI, could you bypass your arms and send signals directly to your hands -> Can wires go faster than nerves?
