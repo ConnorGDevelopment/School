@@ -1,7 +1,10 @@
 {
   "markdownlint.config": {
     "MD036": false,
-    "MD026": false
+    "MD026": false,
+    "MD034": false,
+    "MD040": false,
+    "MD024": false
   },
   "cSpell.words": [
     "Aevum",
@@ -21,6 +24,7 @@
     "Drogo",
     "eutopic",
     "Fadlan's",
+    "Foldback",
     "Goldenthal",
     "Gunnarsson",
     "Headley",
@@ -35,9 +39,12 @@
     "Lectus",
     "lessers",
     "Lightfoot",
+    "Ludologists",
+    "Ludology",
     "Mileva",
     "Mordom",
     "Mordonian",
+    "Narratologists",
     "Onibaba",
     "Qaeda",
     "Rando",
@@ -57,5 +64,6 @@
     "Wessell",
     "Xena",
     "Zemeckis"
-  ]
+  ],
+  "cSpell.ignorePaths": ["*.py"]
 }
