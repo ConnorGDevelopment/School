@@ -1,4 +1,4 @@
-# PSY 1110 - Miniproject 1
+# PSY 1110 - Miniproject 3
 
 By Connor Guarino
 
