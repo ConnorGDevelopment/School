@@ -1,0 +1,5 @@
+Test Madlib
+
+This is a <Noun>.
+I'd like to <Verb> through all these assignments.
+I think <Plural Animal> are cute.

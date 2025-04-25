@@ -1,0 +1,15 @@
+c:\Users\conno\Documents\GitHub\School\ITS 2140\Lego Project\bin\Debug\net9.0\LegoProject.exe
+C:\Users\conno\Documents\GitHub\School\ITS 2140\Lego Project\bin\Debug\net9.0\LegoProject.deps.json
+C:\Users\conno\Documents\GitHub\School\ITS 2140\Lego Project\bin\Debug\net9.0\LegoProject.runtimeconfig.json
+c:\Users\conno\Documents\GitHub\School\ITS 2140\Lego Project\bin\Debug\net9.0\LegoProject.dll
+c:\Users\conno\Documents\GitHub\School\ITS 2140\Lego Project\bin\Debug\net9.0\LegoProject.pdb
+c:\Users\conno\Documents\GitHub\School\ITS 2140\Lego Project\obj\Debug\net9.0\LegoProject.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\conno\Documents\GitHub\School\ITS 2140\Lego Project\obj\Debug\net9.0\LegoProject.AssemblyInfoInputs.cache
+c:\Users\conno\Documents\GitHub\School\ITS 2140\Lego Project\obj\Debug\net9.0\LegoProject.AssemblyInfo.cs
+c:\Users\conno\Documents\GitHub\School\ITS 2140\Lego Project\obj\Debug\net9.0\LegoProject.csproj.CoreCompileInputs.cache
+c:\Users\conno\Documents\GitHub\School\ITS 2140\Lego Project\obj\Debug\net9.0\LegoProject.sourcelink.json
+c:\Users\conno\Documents\GitHub\School\ITS 2140\Lego Project\obj\Debug\net9.0\LegoProject.dll
+c:\Users\conno\Documents\GitHub\School\ITS 2140\Lego Project\obj\Debug\net9.0\refint\LegoProject.dll
+c:\Users\conno\Documents\GitHub\School\ITS 2140\Lego Project\obj\Debug\net9.0\LegoProject.pdb
+C:\Users\conno\Documents\GitHub\School\ITS 2140\Lego Project\obj\Debug\net9.0\LegoProject.genruntimeconfig.cache
+C:\Users\conno\Documents\GitHub\School\ITS 2140\Lego Project\obj\Debug\net9.0\ref\LegoProject.dll

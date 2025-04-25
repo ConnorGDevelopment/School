@@ -1,0 +1,15 @@
+Weather Forecast
+
+Good evening, folks! Here’s your <adjective> weather forecast for <location>.
+
+Today, expect <adjective> skies with a chance of <plural noun> in the morning.
+Winds will be coming from the <direction> at <number> miles per hour.
+
+By noon, temperatures will rise to a <adjective> <number> degrees.
+Make sure to wear your <article of clothing> and drink plenty of <liquid>.
+
+Tonight, we’ll see <adjective> conditions with a low of <number> degrees.
+There’s a slight chance of <plural noun>, so keep your <object> handy.
+
+Looking ahead, the week will bring <adjective> weather with a mix of <plural noun>.
+Stay <adjective>, <verb>, and enjoy the <season> ahead!
