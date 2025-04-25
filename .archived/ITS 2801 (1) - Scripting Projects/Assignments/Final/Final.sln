@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Workspace", "Workspace.csproj", "{D6454C43-CB4A-4260-9B0E-9EC935DBFAF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LegoProject", "..\..\..\..\ITS 2140\Lego Project\LegoProject\LegoProject.csproj", "{B08F223C-D8A3-45C5-8144-43F1F54DAA94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6454C43-CB4A-4260-9B0E-9EC935DBFAF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6454C43-CB4A-4260-9B0E-9EC935DBFAF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6454C43-CB4A-4260-9B0E-9EC935DBFAF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6454C43-CB4A-4260-9B0E-9EC935DBFAF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B08F223C-D8A3-45C5-8144-43F1F54DAA94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B08F223C-D8A3-45C5-8144-43F1F54DAA94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B08F223C-D8A3-45C5-8144-43F1F54DAA94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B08F223C-D8A3-45C5-8144-43F1F54DAA94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D191DB9-30AD-4FE8-9134-7A2AC7A7E889}
+	EndGlobalSection
+EndGlobal
