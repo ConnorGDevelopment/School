@@ -48,3 +48,34 @@ Blocking to show relationships
 
 "In every medium, the crew controls the story during its creation."
 "In cine-VR, the audience has agency while the story is being experienced."
+
+**Agency Types**
+
+- Directorial Agency
+  - Where you look
+- Emotional Agency
+  - Who you connect with
+  - How those connections make viewer feel
+  - When those feelings should occur
+- Intellectual Agency
+  - What you pay attention
+
+**Control Types**
+
+- Directorial Control
+  - Forcing where the audience looks
+- Emotional Control
+  - Guiding audienc connections
+- Intellectual Control
+  - Insisting audience focus on details in a specific order or at a specific moment
+
+Cine-VR provides "directorial agency" by allowing viewer to look where they want
+
+### Emotional Agency vs Emotional Control
+
+Primary Emotions Cervantes leads us to understand what Don Quixote is feeling by 
+describing his perception of monsters (fear).   
+ 
+Secondary Emotions Our own feelings are also based upon information that Cervantes 
+has provided; namely that Don Quixote is not fighting monsters 
+– he’s tilting at windmills (perhaps we feel a sense of unease?). ****
